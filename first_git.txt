@@ -4,3 +4,4 @@ gitのワークフロー練習
 git add
 git comitt
 git rm
+git status
