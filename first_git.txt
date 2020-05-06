@@ -1,2 +1,5 @@
 git練習用
 gitのワークフロー練習
+
+git add
+gitt comitt
